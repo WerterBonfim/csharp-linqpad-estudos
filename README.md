@@ -4,6 +4,8 @@
 
 Este repositório foi criado com o intuito de documentar e armazenar o progresso dos meus estudos sobre as funcionalidades da linguagem de programação C#. Aqui, você encontrará exemplos de código, anotações e projetos experimentais que refletem meu aprendizado e evolução com a linguagem.
 
+Os códigos foram escritos no LinqPad 8. Você pode fazer o clone do projeto dentro do diretorio padrão do LinqPad.
+
 ## Atualizações e Versões do C#
 
 O C# é uma linguagem em constante evolução, com novas versões sendo lançadas periodicamente. Comprometo-me a manter este repositório atualizado, incorporando novas características e mudanças que são introduzidas com cada nova versão do C#.
@@ -19,7 +21,7 @@ Embora este repositório seja pessoal e voltado para os meus estudos, estou aber
 
 
 
-# Funcionalidades
+# Funcionalidades C# 6
 
 ** a popularidade de uso é subjetiva e pode variar dependendo do contexto em que o C# está sendo usado. 
 
@@ -33,3 +35,16 @@ Embora este repositório seja pessoal e voltado para os meus estudos, estou aber
 | Exception Filters                  | 6                          | [Link](#exception-filters)          |
 | Nameof Expression                  | 7                          | [Link](#nameof-expression)          |
 | Await in Catch and Finally Blocks  | 5                          | [Link](#await-in-catch-and-finally-blocks) |
+
+
+# Funcionalidades C# 7
+
+# Funcionalidades C# 8
+
+# Funcionalidades C# 9
+
+# Funcionalidades C# 10
+
+# Funcionalidades C# 11
+
+# Funcionalidades C# 12
