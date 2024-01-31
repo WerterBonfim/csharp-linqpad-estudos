@@ -16,3 +16,20 @@ Embora este repositório seja pessoal e voltado para os meus estudos, estou aber
 
 
 
+
+
+
+# Funcionalidades
+
+** a popularidade de uso é subjetiva e pode variar dependendo do contexto em que o C# está sendo usado. 
+
+| Nome da Funcionalidade             | Popularidade de Uso (0-10) | Link para Documentação         |
+|------------------------------------|----------------------------|--------------------------------|
+| Auto-Property Initializers         | 8                          | [Link](/C6/C6-auto-property-initializer.linq) |
+| Dictionary Initializer             | 7                          | [Link](#dictionary-initializer)     |
+| Expression-Bodied Methods          | 9                          | [Link](#expression-bodied-methods)  |
+| Null-Conditional Operator          | 10                         | [Link](#null-conditional-operator)  |
+| String Interpolation               | 10                         | [Link](#string-interpolation)       |
+| Exception Filters                  | 6                          | [Link](#exception-filters)          |
+| Nameof Expression                  | 7                          | [Link](#nameof-expression)          |
+| Await in Catch and Finally Blocks  | 5                          | [Link](#await-in-catch-and-finally-blocks) |
