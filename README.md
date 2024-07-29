@@ -17,7 +17,7 @@ Sempre que uma nova versão do C# for lançada, farei o possível para estudá-l
 Embora este repositório seja pessoal e voltado para os meus estudos, estou aberto a contribuições da comunidade! Se você tem sugestões, correções ou quer discutir sobre algum aspecto do C#, fique à vontade para abrir uma issue ou enviar um pull request.
 
 
-
+[Historico Oficial](https://learn.microsoft.com/pt-br/dotnet/csharp/whats-new/csharp-version-history)
 
 
 
@@ -38,6 +38,23 @@ Embora este repositório seja pessoal e voltado para os meus estudos, estou aber
 
 
 # Funcionalidades C# 7
+
+Claro! Aqui está uma tabela com o nome das novas funcionalidades do C# 7 e um link de referência para a documentação (representado pela palavra "texto"):
+
+| **Funcionalidade**                  | **Link para Documentação** |
+|-------------------------------------|----------------------------|
+| Tuplas                              | [texto]() |
+| Deconstruction                      | [texto]() |
+| Pattern Matching                    | [texto]() |
+| Local Functions                     | [texto]() |
+| Ref Returns and Locals              | [texto]() |
+| Generalized Async Return Types      | [texto]() |
+| Out Variables                       | [texto]() |
+| Discards                            | [texto]() |
+| Binary Literals and Digit Separators| [texto]() |
+| Throw Expressions                   | [texto]() |
+
+Cada "texto" acima é um link que levaria à documentação oficial da Microsoft para a respectiva funcionalidade do C# 7. Esses links fornecem detalhes adicionais e exemplos sobre como usar essas funcionalidades no código C#.
 
 # Funcionalidades C# 8
 
